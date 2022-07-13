@@ -1,0 +1,45 @@
+body{
+    /*background-color : red ;*/
+}
+.primary-background1{
+    background-color : #ba68c8;
+    height :50px;
+    
+}
+.primary-background{
+    background-color : #ba68c8;
+
+    
+}
+.button_padding{
+    margin-top:15px;
+}
+.primary-background-color1{
+     background-color : #e1bee7;
+}
+.padd{
+    margin-left:20px;
+     background-color : black;
+}
+
+.bgtest{
+    background-color : black;
+}
+
+.pad5{
+    padding: 5px;
+}
+ .post-title{
+       font-weight: 30;
+       font-size: 30px
+       
+     }
+     .post-code{
+       font-weight: 30;
+       font-size: 15px
+     }
+     .post-footer{
+     
+       font-weight: 30;
+       font-size: 20px
+     }
